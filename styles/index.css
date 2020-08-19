@@ -1,0 +1,8 @@
+.content_container {
+  margin: 30px;
+  height: 500px;
+  width: 50%;
+  background: #8a2be2;
+  border-radius: 8px;
+  border: 2px solid #490355;
+}
